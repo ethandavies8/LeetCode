@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{86D780E2-0C57-4E3F-8F82-AF16445B735D}</ProjectGuid>
+    <ProjectGuid>{6D9D67E0-8149-49EB-B16C-74047A04317E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LeetCodeSolutions</RootNamespace>
-    <AssemblyName>LeetCodeSolutions</AssemblyName>
+    <RootNamespace>HeapSortSolution</RootNamespace>
+    <AssemblyName>HeapSortSolution</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="HeapSortSolution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
