@@ -1,0 +1,7 @@
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe.config
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.pdb
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\obj\Debug\DistributeCandies.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\obj\Debug\DistributeCandies.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.exe
+C:\Users\ethan\source\repos\LeetCode\Solutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.pdb

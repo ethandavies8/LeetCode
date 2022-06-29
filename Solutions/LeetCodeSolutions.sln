@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeCandies", "LeetCo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KthLargestElement", "KthLargestElement", "{E02D4CF9-A7F1-4A44-950F-40B11E3E6A3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSortSolution", "HeapSortSolution\HeapSortSolution.csproj", "{6D9D67E0-8149-49EB-B16C-74047A04317E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortSolution", "QuickSortSolution\QuickSortSolution.csproj", "{1DAB3A9A-DF54-4F41-874F-B7206A0FD0B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinDeletionsUniqueCharFrequency1647", "MinDeletionsUniqueCharFrequency1647\MinDeletionsUniqueCharFrequency1647.csproj", "{00E99C09-ADF1-43EF-B5C4-6CE8266BFCC6}"
@@ -21,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLinkedListElements203
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses929", "UniqueEmailAddresses929\UniqueEmailAddresses929.csproj", "{667037BD-BBE6-46CB-BE9B-F5991A03B1C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleString1528", "ShuffleString1528\ShuffleString1528.csproj", "{ADC01E0F-6F5B-4176-B919-99E6115C8D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,10 +31,6 @@ Global
 		{86D780E2-0C57-4E3F-8F82-AF16445B735D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86D780E2-0C57-4E3F-8F82-AF16445B735D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86D780E2-0C57-4E3F-8F82-AF16445B735D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D9D67E0-8149-49EB-B16C-74047A04317E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D9D67E0-8149-49EB-B16C-74047A04317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D9D67E0-8149-49EB-B16C-74047A04317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D9D67E0-8149-49EB-B16C-74047A04317E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1DAB3A9A-DF54-4F41-874F-B7206A0FD0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DAB3A9A-DF54-4F41-874F-B7206A0FD0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DAB3A9A-DF54-4F41-874F-B7206A0FD0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -59,12 +55,15 @@ Global
 		{667037BD-BBE6-46CB-BE9B-F5991A03B1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{667037BD-BBE6-46CB-BE9B-F5991A03B1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{667037BD-BBE6-46CB-BE9B-F5991A03B1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{6D9D67E0-8149-49EB-B16C-74047A04317E} = {E02D4CF9-A7F1-4A44-950F-40B11E3E6A3B}
 		{1DAB3A9A-DF54-4F41-874F-B7206A0FD0B6} = {E02D4CF9-A7F1-4A44-950F-40B11E3E6A3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
