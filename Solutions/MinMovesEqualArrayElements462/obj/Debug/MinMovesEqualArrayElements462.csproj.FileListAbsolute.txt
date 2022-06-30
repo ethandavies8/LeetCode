@@ -1,0 +1,7 @@
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\bin\Debug\MinMovesEqualArrayElements462.exe.config
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\bin\Debug\MinMovesEqualArrayElements462.exe
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\bin\Debug\MinMovesEqualArrayElements462.pdb
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\obj\Debug\MinMovesEqualArrayElements462.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\obj\Debug\MinMovesEqualArrayElements462.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\obj\Debug\MinMovesEqualArrayElements462.exe
+C:\Users\ethan\source\repos\LeetCode\Solutions\MinMovesEqualArrayElements462\obj\Debug\MinMovesEqualArrayElements462.pdb
