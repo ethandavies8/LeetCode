@@ -1,0 +1,7 @@
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\bin\Debug\FrequencyMostFrequentElement1838.exe.config
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\bin\Debug\FrequencyMostFrequentElement1838.exe
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\bin\Debug\FrequencyMostFrequentElement1838.pdb
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\obj\Debug\FrequencyMostFrequentElement1838.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\obj\Debug\FrequencyMostFrequentElement1838.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\obj\Debug\FrequencyMostFrequentElement1838.exe
+C:\Users\ethan\source\repos\LeetCode\Solutions\FrequencyMostFrequentElement1838\obj\Debug\FrequencyMostFrequentElement1838.pdb

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses929", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleString1528", "ShuffleString1528\ShuffleString1528.csproj", "{ADC01E0F-6F5B-4176-B919-99E6115C8D44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMovesEqualArrayElements462", "MinMovesEqualArrayElements462\MinMovesEqualArrayElements462.csproj", "{4A950C90-C808-488D-A537-D7CAB9D920BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyMostFrequentElement1838", "FrequencyMostFrequentElement1838\FrequencyMostFrequentElement1838.csproj", "{3B3F58EA-49CF-4D61-98A0-2CF3A5EDB072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,14 @@ Global
 		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC01E0F-6F5B-4176-B919-99E6115C8D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A950C90-C808-488D-A537-D7CAB9D920BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A950C90-C808-488D-A537-D7CAB9D920BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A950C90-C808-488D-A537-D7CAB9D920BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A950C90-C808-488D-A537-D7CAB9D920BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3F58EA-49CF-4D61-98A0-2CF3A5EDB072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3F58EA-49CF-4D61-98A0-2CF3A5EDB072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3F58EA-49CF-4D61-98A0-2CF3A5EDB072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3F58EA-49CF-4D61-98A0-2CF3A5EDB072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
