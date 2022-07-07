@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyMostFrequentElemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence128", "LongestConsecutiveSequence128\LongestConsecutiveSequence128.csproj", "{982849D8-8E17-4D76-A79C-02D054A48804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterleavingString97", "InterleavingString97\InterleavingString97.csproj", "{F7788C9A-65F1-484C-8E29-48EA14712FE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{982849D8-8E17-4D76-A79C-02D054A48804}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{982849D8-8E17-4D76-A79C-02D054A48804}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{982849D8-8E17-4D76-A79C-02D054A48804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7788C9A-65F1-484C-8E29-48EA14712FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7788C9A-65F1-484C-8E29-48EA14712FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7788C9A-65F1-484C-8E29-48EA14712FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7788C9A-65F1-484C-8E29-48EA14712FE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
