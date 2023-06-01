@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeCandies", "LeetCodeSolutions\DistributeCandies.csproj", "{86D780E2-0C57-4E3F-8F82-AF16445B735D}"
 EndProject
@@ -34,6 +34,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeRightSide199", "BinaryTreeRightSide199\BinaryTreeRightSide199.csproj", "{F035621F-FA43-4D1E-BD53-AB3A85195D7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchSticksToSquare473", "MatchSticksToSquare473\MatchSticksToSquare473.csproj", "{FDBCF36F-86D5-461C-91CD-529562048E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPracticeQuestions", "interviewPracticeQuestions\InterviewPracticeQuestions.csproj", "{2605BDE3-D898-4C6D-8B7F-FC2B559A4D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +103,10 @@ Global
 		{FDBCF36F-86D5-461C-91CD-529562048E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDBCF36F-86D5-461C-91CD-529562048E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDBCF36F-86D5-461C-91CD-529562048E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2605BDE3-D898-4C6D-8B7F-FC2B559A4D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2605BDE3-D898-4C6D-8B7F-FC2B559A4D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2605BDE3-D898-4C6D-8B7F-FC2B559A4D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2605BDE3-D898-4C6D-8B7F-FC2B559A4D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
